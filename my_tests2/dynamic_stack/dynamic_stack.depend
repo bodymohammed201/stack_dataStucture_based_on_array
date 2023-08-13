@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1691883498 source:f:\diploma\01_part 1 c programming - copy\17_lecture_17 data structures\my_tests2\dynamic_stack\main.c
+	<stdio.h>
+	<stdlib.h>
+	"stack_dynamic.h"
+
+1691882844 f:\diploma\01_part 1 c programming - copy\17_lecture_17 data structures\my_tests2\dynamic_stack\stack_dynamic.h
+	"std.h"
+
+1691882844 f:\diploma\01_part 1 c programming - copy\17_lecture_17 data structures\my_tests2\dynamic_stack\std.h
+
+1691888460 source:f:\diploma\01_part 1 c programming - copy\17_lecture_17 data structures\my_tests2\dynamic_stack\stack_dynamic.c
+	"stack_dynamic.h"
+	<stdio.h>
+	<stdlib.h>
+

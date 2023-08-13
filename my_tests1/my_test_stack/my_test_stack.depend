@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1691608672 source:f:\diploma\01_part 1 c programming - copy\17_lecture_17 data structures\my_tests\my_test_stack\main.c
+	<stdio.h>
+	<stdlib.h>
+	"stack_ds_t.h"
+	"stack_ds_t.c"
+
+1691603206 f:\diploma\01_part 1 c programming - copy\17_lecture_17 data structures\my_tests\my_test_stack\stack_ds_t.h
+	"std.h"
+
+1691608189 f:\diploma\01_part 1 c programming - copy\17_lecture_17 data structures\my_tests\my_test_stack\std.h
+
+1691608742 f:\diploma\01_part 1 c programming - copy\17_lecture_17 data structures\my_tests\my_test_stack\stack_ds_t.c
+	"stack_ds_t.h"
+	<stdio.h>
+
+1691608779 source:f:\diploma\01_part 1 c programming - copy\17_lecture_17 data structures\my_tests1\my_test_stack\main.c
+	<stdio.h>
+	<stdlib.h>
+	"stack_ds_t.h"
+	"stack_ds_t.c"
+
+1691603206 f:\diploma\01_part 1 c programming - copy\17_lecture_17 data structures\my_tests1\my_test_stack\stack_ds_t.h
+	"std.h"
+
+1691608189 f:\diploma\01_part 1 c programming - copy\17_lecture_17 data structures\my_tests1\my_test_stack\std.h
+
+1691608742 f:\diploma\01_part 1 c programming - copy\17_lecture_17 data structures\my_tests1\my_test_stack\stack_ds_t.c
+	"stack_ds_t.h"
+	<stdio.h>
+
