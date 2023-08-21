@@ -67,7 +67,7 @@ return ret;
 /*============================================================================*/
 
 /**
-   * @brief        this function initialize the stack pointer
+   * @brief        this function push element to the stack
    * @param        mystack1 is a pointer to stack
    * @retval       return_status_t  status of the initialization process
 */
@@ -88,8 +88,9 @@ return ret;
 
 }
 /**
-   * @brief        this function initialize the stack pointer
+   * @brief        this function pop element from the stackr
    * @param        mystack1 is a pointer to stack
+    * @param        value  is a the value poped
    * @retval       return_status_t  status of the initialization process
 */
 /*============================================================================*/
@@ -108,9 +109,11 @@ else{
 return ret;
 
 }
+/*============================================================================*/
 /**
-   * @brief        this function initialize the stack pointer
+   * @brief        this function pop element from the stackr
    * @param        mystack1 is a pointer to stack
+    * @param        value  is a the value in the top
    * @retval       return_status_t  status of the initialization process
 */
 /*============================================================================*/
@@ -126,9 +129,11 @@ if(mystack1 == NULL||value ==NULL ||stack_empty(mystack1)==EMPTY ){
 }
 return ret;
 }
+/*============================================================================*/
 /**
-   * @brief        this function initialize the stack pointer
+   * @brief        this function gives the stack function 
    * @param        mystack1 is a pointer to stack
+      * @param       stack_size is size of thhe stack
    * @retval       return_status_t  status of the initialization process
 */
 /*============================================================================*/
@@ -146,7 +151,7 @@ if(mystack1 == NULL||stack_size ==NULL ||stack_empty(mystack1)==EMPTY ){
 return ret;
 }
 /**
-   * @brief        this function initialize the stack pointer
+   * @brief        this function display the element in the stack
    * @param        mystack1 is a pointer to stack
    * @retval       return_status_t  status of the initialization process
 */
